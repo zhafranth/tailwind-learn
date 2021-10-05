@@ -24,6 +24,8 @@ module.exports = {
   variants: {
     extend: {
       fontWeight: ["hover", "focus"],
+      gap: ["hover", "focus"],
+      width: ["hover", "focus"],
     },
   },
   plugins: [],
